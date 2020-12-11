@@ -76,6 +76,7 @@ body{
     
 }
 
+
 .square{
 
     margin: 1rem;
@@ -96,6 +97,11 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     
+}
+
+.square h1{
+
+    color:var(--dark-blue);
 }
 
  .image{
